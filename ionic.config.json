@@ -1,0 +1,8 @@
+{
+  "name": "3TIPI",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue",
+  "id": "ea032d64"
+}
